@@ -1,0 +1,1 @@
+Developed an AI chatbot for Vellore Institute of Technology (VIT) to enhance user experience and streamline administrative tasks. The chatbot offers 24/7 assistance, answers queries, automates routine tasks, and improves communication.
